@@ -1,1 +1,4 @@
 .DS_Store
+/include/google/protobuf
+*.pyc
+/.idea
